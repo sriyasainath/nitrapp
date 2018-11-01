@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nitrapp</string>
+    <string name="mailserver_url">https://mail.nitrkl.ac.in/</string>
+    <string name="mailserver_domain">nitrkl.ac.in</string>
+
+    <string name="pref_file">nitrapp.PREF</string>
+    <string name="pref_cookies">nitrapp.COOKIES</string>
+    <string name="auth_token">ZM_AUTH_TOKEN</string>
+</resources>
